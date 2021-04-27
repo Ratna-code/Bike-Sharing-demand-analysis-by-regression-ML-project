@@ -1,0 +1,2 @@
+# Bike-Sharing-demand-analysis-by-regression-ML-project
+This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes.
